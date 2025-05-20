@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Матриця",
+    "description": "Революцiя выртуальної реальностi",
+    "image":  "https://image.tmdb.org/t/p/w300/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Гаррі Поттер і філософський камінь",
+    "description": "Перші кроки молодого чарівника у світі магії",
+    "image": "https://image.tmdb.org/t/p/w300/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Початок",
+    "description": "Світ снів і ідеї, які змінюють реальність.",
+    "image": "https://image.tmdb.org/t/p/w300/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg"
+  }
+]
