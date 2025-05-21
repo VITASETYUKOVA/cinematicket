@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Матриця",
-    "description": "Революцiя выртуальної реальностi",
+    "description": "Революцiя вiртуальної реальностi",
     "image":  "https://image.tmdb.org/t/p/w300/f89U3ADr1oiB1s9GkdPOEpXUk5H.jpg"
   },
   {
@@ -16,5 +16,11 @@
     "title": "Початок",
     "description": "Світ снів і ідеї, які змінюють реальність.",
     "image": "https://image.tmdb.org/t/p/w300/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg"
+  },
+  {
+  "id": 4,
+  "title": "Люди в чорному",
+  "description": "Агенти захищають Землю від прибульців.",
+  "image": "https://image.tmdb.org/t/p/w300/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg"
   }
 ]
